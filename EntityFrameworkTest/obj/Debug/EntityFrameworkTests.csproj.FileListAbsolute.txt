@@ -1,0 +1,10 @@
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\bin\Debug\EntityFrameworkTest.exe.config
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\bin\Debug\EntityFrameworkTest.exe
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\bin\Debug\EntityFrameworkTest.pdb
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\obj\Debug\EntityFrameworkTests.csprojResolveAssemblyReference.cache
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\obj\Debug\EntityFrameworkTest.exe
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\obj\Debug\EntityFrameworkTest.pdb
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\bin\Debug\EntityFramework.dll
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\bin\Debug\EntityFramework.xml
+C:\Workspace\Mine\EntityFrameworkTests\EntityFrameworkTest\bin\Debug\EntityFramework.SqlServer.xml
